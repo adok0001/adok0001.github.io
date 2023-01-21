@@ -10,7 +10,7 @@ showcase:
   description: "I am a computer science graduate and I have experience with various programming languages such as Java, Python, C/C++/C#, SQL (Postgres), JavaScript, HTML/CSS, and R. I am also familiar with frameworks such as React Native, Node.js, Flask, JUnit, WordPress, and .NET."
   image:
     alt: "Tamara Adokeme's Picture"
-    x: "img/tamara-adokeme.JPEG"
+    x: "/img/tamara-adokeme.JPEG"
     _2x: "img/showcase/showcase@2x.png"
   imageMobile:
     alt: "Showcase keyboard and mouse image"
